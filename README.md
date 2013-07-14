@@ -1,9 +1,11 @@
 cocos2d-ScrollNode
 ==================
 
-A cocos2d ScrollNode that mimics the behavior of a UIScrollView. Requires NO modifications to cocos2d source!
-
-ScrollNode mimics the standard horizontal and/or vertical scrolling of a UIScrollView. At this time it does not support paging or pinch to zoom.
+A cocos2d ScrollNode that mimics the behavior of a UIScrollView. 
+- Requires NO modifications to cocos2d source! 
+- Compatible with cocos2d-iphone 2.0 and 2.1 (see separate versions in Source folder).
+- ScrollNode mimics the standard horizontal and/or vertical scrolling of a UIScrollView
+- At this time it does not support paging or pinch to zoom.
 
 History
 ==================
