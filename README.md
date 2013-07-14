@@ -98,6 +98,6 @@ The CocosScrollView is created by and accessible from the ScrollNode. Use its pu
 
 // make the scrollbars appear and fade out
 - (void)flashScrollbars;
-// show or hide the interface (scrollbars)
+// check if the interface should be visible (used for custom scrollbar ui)
 - (BOOL)shouldShowInterface;
 ```
